@@ -13,13 +13,13 @@
 
 - 书法
   - [书法名帖](书法/书法名帖.md)
-  - [文徵明-小楷千字文](书法/文徵明-小楷千字文.md)
-  - [《兜沙经》书法](书法/《兜沙经》书法.md)
   - [灵飞经](书法/灵飞经.md)
-  - [《心经》书法](书法/《心经》书法.md)
-  - [文徵明-小楷《草堂十志》](书法/文徵明-小楷《草堂十志》.md)
   - [多宝塔碑](书法/多宝塔碑.md)
-	
+  - [《心经》书法](书法/《心经》书法.md)
+  - [《兜沙经》书法](书法/《兜沙经》书法.md)  
+  - [文徵明-小楷千字文](书法/文徵明-小楷千字文.md)
+  - [文徵明-小楷《草堂十志》](书法/文徵明-小楷《草堂十志》.md)
+  
 - 练习
   - [关于我](练习/关于我.md)
   - [徐书法](练习/徐书法.md)
@@ -34,6 +34,7 @@
   - [诗词杂句](轨迹/诗词杂句.md)
   - [有感之杂说](轨迹/有感之杂说.md)
   
+
 
 ---
 
@@ -66,11 +67,11 @@
 
 - 徐书法 `xushufa.cn` 个人书法练习网站
 
-| 徐书法 | 我的网站 |  备注  |
-| ---  | ------------- |  ------------- |
-| 1    | [xushufa]( https://xushufa.cn ) &ensp; [blog]( https://blog.xushufa.cn ) | 《书法练习轨迹》及博客网站。     |
-| 2    | [docsify-calligraphy]( https://docsify-calligraphy.xushufa.cn ) &ensp; [docsify-blog]( https://docsify-blog.xushufa.cn ) | docsify构建的网站。 |
-| 3    | [mkdocs-calligraphy]( https://mkdocs-calligraphy.xushufa.cn ) &ensp; [mkdocs-blog]( https://mkdocs-blog.xushufa.cn )     | mkdocs构建的网站。  |
+| 徐书法 | 我的网站    |  备注          |
+| -----  | ----------- |  ------------- |
+| 1      | [xushufa]( https://xushufa.cn ) &ensp; [blog]( https://blog.xushufa.cn ) | 《书法练习轨迹》及博客网站。      |
+| 2      | [mkdocs-calligraphy]( https://mkdocs-calligraphy.xushufa.cn ) &ensp; [mkdocs-blog]( https://mkdocs-blog.xushufa.cn )         | `mkdocs`构建的网站。  |
+| 3      | [reco-calligraphy]( https://reco-calligraphy.xushufa.cn ) &ensp; [reco-blog]( https://reco-blog.xushufa.cn ) | `vuepress-theme-reco`构建的网站。     |
 
 ***
 
